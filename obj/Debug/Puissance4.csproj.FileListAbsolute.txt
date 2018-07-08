@@ -1,0 +1,7 @@
+c:\users\willi\source\repos\Puissance4\Puissance4\bin\Debug\Puissance4.exe.config
+c:\users\willi\source\repos\Puissance4\Puissance4\bin\Debug\Puissance4.exe
+c:\users\willi\source\repos\Puissance4\Puissance4\bin\Debug\Puissance4.pdb
+c:\users\willi\source\repos\Puissance4\Puissance4\obj\Debug\Puissance4.csprojAssemblyReference.cache
+c:\users\willi\source\repos\Puissance4\Puissance4\obj\Debug\Puissance4.csproj.CoreCompileInputs.cache
+c:\users\willi\source\repos\Puissance4\Puissance4\obj\Debug\Puissance4.exe
+c:\users\willi\source\repos\Puissance4\Puissance4\obj\Debug\Puissance4.pdb
